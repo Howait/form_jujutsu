@@ -137,7 +137,7 @@
     cursor: pointer;
 }
 
-#subscribe_button {
+#subscribe_button:hover {
     transform: scale(1.05);
 }
 
